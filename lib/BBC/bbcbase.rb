@@ -1,0 +1,3 @@
+class BBCBase < BrowserContainer
+
+end

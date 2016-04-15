@@ -1,0 +1,16 @@
+require 'rake'
+require 'cucumber/rake/task'
+require 'fileutils'
+
+task :test_responses, [:host,:browser] do |t, args|
+  Cucumber::Rake::Task.new(:run) do |t|
+    ENV['HOST'] = args[:host]
+    ENV['BROWSER'] = args[:browser]
+    if args[:host].include?('bbc')
+      t.profile = "bbc"
+    else
+      t.profile = "exxon"
+    end
+  end
+  Rake::Task[:run].invoke()
+end

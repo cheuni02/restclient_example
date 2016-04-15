@@ -1,0 +1,3 @@
+class ExxonBase < BrowserContainer
+
+end

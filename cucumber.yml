@@ -1,0 +1,6 @@
+# config/cucumber.yml
+##YAML Template
+---
+
+exxon: -c --tags @exxon  --expand --format pretty
+bbc: -c --tags @bbc  --expand --format junit -o results/ --format pretty
