@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head itemscope="" itemtype="http://schema.org/WebSite" prefix="og: http://ogp.me/ns#">
+    <title>Exxon Mobil</title>
+    <link rel='alternate' href='https://exxon.com/en' hreflang='en' />
+    <link rel="canonical" itemprop="url" href="http://exxon.com/th/" />
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
+    <meta name="siteName" content="ExxonMobil" itemprop="name" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Description " />
+    <meta name="keywords" content="Keywords " />
+    <meta property="og:title" content="OpenGraphTitle" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://exxon.com/th/" />
+    <meta property="og:image" content="#" />
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="styles/core.css" />
+    <!--[if (lt IE 9) & (!IEMobile)]>
+        <link href= "styles/ie8.min.css" rel="stylesheet" type="text/css">
+        <script src="scripts/selectivizr-min.js"></script>
+    <![endif]-->
+    <body>
+        <span style="display: none;" id="usercountrycode"></span>
+        <span style="display: none;" id="usercityname"></span>
+
+        <nav id="nav-main-mobile">
+            <ul class="nav-main-mobile-panel nav-main-mobile-panel-menu nav-main-mobile-panel-active" id="mm-0">
+                <li class="nav-main-mobile-logo">
+                    <a href="#" id="MobileMenu_linkLob" class="logo"><img alt="Logo" src="img/exxon_mobil_fuels.png"></a>
+                </li>
+                <li>
+                    <a id="MobileMenu_RptContainer_LinkContainer_0" href="#mm-1">Quality fuels</a>
+                </li>
+                <li>
+                    <a id="MobileMenu_RptContainer_LinkContainer_1" href="#mm-8">Gas cards &amp; payment</a>
+                </li>
+                <li>
+                    <a id="MobileMenu_RptContainer_LinkContainer_2" href="#mm-17">Rewards &amp; promotions</a>
+                </li>
+                <li>
+                    <a id="MobileMenu_RptContainer_LinkContainer_3" href="https://www.exxon.com/en/motor-oil">Motor oil</a>
+                </li>
+                <li>
+                    <a id="MobileMenu_RptContainer_LinkContainer_4" href="#mm-24">Our stations</a>
+                </li>
+                <li>
+                    <a id="MobileMenu_RptContainer_LinkContainer_5" href="#mm-28">About Exxon &amp; Mobil</a>
+                </li>
+            </ul>
+            <ul id="mm-1" class="nav-main-mobile-panel nav-main-mobile-panel-menu">
+                <li id="MobileMenu_RptContainerMenu_RptSection_0_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_0_sectionItem_0" href="#mm-0">Quality fuels</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_0_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_0_sectionItem_1" href="https://www.exxon.com/en/fuels">Quality fuels overview</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_0_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_0_sectionItem_2" href="#mm-3">Our fuels</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_0_liItem_3" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_0_sectionItem_3" href="#mm-4">Fuel tips</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_0_liItem_4" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_0_sectionItem_4" href="https://www.exxon.com/en/how-car-engines-work">How our fuels work</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_0_liItem_5" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_0_sectionItem_5" href="https://www.exxon.com/en/fuel-journey">Journey of fuels</a>
+                </li>
+            </ul>
+            <ul id="mm-2" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_1_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_1_sectionItem_0" href="#mm-1">Quality fuels overview</a>
+                </li>
+            </ul>
+            <ul id="mm-3" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_2_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_2_sectionItem_0" href="#mm-1">Our fuels</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_2_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_2_sectionItem_1" href="https://www.exxon.com/en/unleaded-gasoline">Gasoline</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_2_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_2_sectionItem_2" href="https://www.exxon.com/en/diesel-fuel">Diesel</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_2_liItem_3" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_2_sectionItem_3" href="https://www.exxon.com/en/ethanol">Ethanol</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_2_liItem_4" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_2_sectionItem_4" href="https://www.exxon.com/en/octane-rating">Octane ratings</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_2_liItem_5" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_2_sectionItem_5" href="https://www.exxon.com/en/gas-prices">Pricing</a>
+                </li>
+            </ul>
+            <ul id="mm-4" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_3_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_3_sectionItem_0" href="#mm-1">Fuel tips</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_3_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_3_sectionItem_1" href="https://www.exxon.com/en/car-maintenance-tips">Car maintenance</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_3_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_3_sectionItem_2" href="https://www.exxon.com/en/driving-tips">Driving habits</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_3_liItem_3" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_3_sectionItem_3" href="https://www.exxon.com/en/gas-saving-tips">Smart choices</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_3_liItem_4" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_3_sectionItem_4" href="https://www.exxon.com/en/travel-tips">Tips for your journey</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_3_liItem_5" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_3_sectionItem_5" href="https://www.exxon.com/en/gasoline-safety-storage">Safety &amp; storage</a>
+                </li>
+            </ul>
+            <ul id="mm-5" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_4_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_4_sectionItem_0" href="#mm-1">How our fuels work</a>
+                </li>
+            </ul>
+            <ul id="mm-6" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_5_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_5_sectionItem_0" href="#mm-1">Journey of fuels</a>
+                </li>
+            </ul>
+            <ul id="mm-8" class="nav-main-mobile-panel nav-main-mobile-panel-menu">
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_0" href="#mm-0">Gas cards &amp; payment</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_1" href="https://www.exxon.com/en/gas-cards-and-payment">Gas cards &amp; payment overview</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_2" href="https://www.exxon.com/en/personal-credit-cards">Consumer credit card</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_3" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_3" href="https://www.exxon.com/en/business-credit-cards">Commercial credit cards</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_4" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_4" href="https://www.exxon.com/en/speedpass">Speedpass<sup>TM</sup></a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_5" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_5" href="https://www.exxon.com/en/speedpassplus">Speedpass+<sup>TM</sup></a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_6" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_6" href="https://www.exxon.com/en/gas-gift-cards">Gift cards</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_6_liItem_7" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_6_sectionItem_7" href="https://www.exxon.com/en/my-account">Manage your accounts</a>
+                </li>
+            </ul>
+            <ul id="mm-9" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_7_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_7_sectionItem_0" href="#mm-8">Gas cards &amp; payment overview</a>
+                </li>
+            </ul>
+            <ul id="mm-10" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_8_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_8_sectionItem_0" href="#mm-8">Consumer credit card</a>
+                </li>
+            </ul>
+            <ul id="mm-11" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_9_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_9_sectionItem_0" href="#mm-8">Commercial credit cards</a>
+                </li>
+            </ul>
+            <ul id="mm-12" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_10_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_10_sectionItem_0" href="#mm-8">Speedpass<sup>TM</sup></a>
+                </li>
+            </ul>
+            <ul id="mm-13" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_11_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_11_sectionItem_0" href="#mm-8">Speedpass+<sup>TM</sup></a>
+                </li>
+            </ul>
+            <ul id="mm-14" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_12_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_12_sectionItem_0" href="#mm-8">Gift cards</a>
+                </li>
+            </ul>
+            <ul id="mm-15" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_13_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_13_sectionItem_0" href="#mm-8">Manage your accounts</a>
+                </li>
+            </ul>
+            <ul id="mm-17" class="nav-main-mobile-panel nav-main-mobile-panel-menu">
+                <li id="MobileMenu_RptContainerMenu_RptSection_14_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_14_sectionItem_0" href="#mm-0">Rewards &amp; promotions</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_14_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_14_sectionItem_1" href="https://www.exxon.com/en/gas-rewards-and-promotions">Rewards &amp; promotions overview</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_14_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_14_sectionItem_2" href="https://www.exxon.com/en/plenti">Plenti</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_14_liItem_3" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_14_sectionItem_3" href="https://www.exxon.com/en/return-and-earn">return and earn</a>
+                </li>
+            </ul>
+            <ul id="mm-18" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_15_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_15_sectionItem_0" href="#mm-17">Rewards &amp; promotions overview</a>
+                </li>
+            </ul>
+            <ul id="mm-19" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_16_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_16_sectionItem_0" href="#mm-17">Plenti</a>
+                </li>
+            </ul>
+            <ul id="mm-20" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_17_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_17_sectionItem_0" href="#mm-17">return and earn</a>
+                </li>
+            </ul>
+            <ul id="mm-22" class="nav-main-mobile-panel nav-main-mobile-panel-menu">
+                <li id="MobileMenu_RptContainerMenu_RptSection_18_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_18_sectionItem_0" href="#mm-0">Motor oil</a>
+                </li>
+            </ul>
+            <ul id="mm-24" class="nav-main-mobile-panel nav-main-mobile-panel-menu">
+                <li id="MobileMenu_RptContainerMenu_RptSection_19_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_19_sectionItem_0" href="#mm-0">Our stations</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_19_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_19_sectionItem_1" href="https://www.exxon.com/en/gas-stations">Our stations overview</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_19_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_19_sectionItem_2" href="https://www.exxon.com/en/Find Station">Find a station</a>
+                </li>
+            </ul>
+            <ul id="mm-25" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_20_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_20_sectionItem_0" href="#mm-24">Our stations overview</a>
+                </li>
+            </ul>
+            <ul id="mm-26" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_21_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_21_sectionItem_0" href="#mm-24">Find a station</a>
+                </li>
+            </ul>
+            <ul id="mm-28" class="nav-main-mobile-panel nav-main-mobile-panel-menu">
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_0" href="#mm-0">About Exxon &amp; Mobil</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_1" href="https://www.exxon.com/en/about-us">About Exxon &amp; Mobil overview</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_2" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_2" href="https://www.exxon.com/en/history">History</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_3" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_3" href="https://www.exxon.com/en/environment">Environmental performance</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_4" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_4" href="#mm-32">Community support</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_5" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_5" href="https://www.exxon.com/en/careers">Jobs and careers</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_6" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_6" href="https://www.exxon.com/en/distribution-retail">Branded Wholesaler</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_7" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_7" href="#mm-35">Products for business</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_8" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_8" href="https://www.exxon.com/en/msds">Product and safety data sheets</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_22_liItem_9" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_22_sectionItem_9" href="https://www.exxon.com/en/partnerships">Partnerships</a>
+                </li>
+            </ul>
+            <ul id="mm-29" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_23_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_23_sectionItem_0" href="#mm-28">About Exxon &amp; Mobil overview</a>
+                </li>
+            </ul>
+            <ul id="mm-30" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_24_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_24_sectionItem_0" href="#mm-28">History</a>
+                </li>
+            </ul>
+            <ul id="mm-31" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_25_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_25_sectionItem_0" href="#mm-28">Environmental performance</a>
+                </li>
+            </ul>
+            <ul id="mm-32" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_26_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_26_sectionItem_0" href="#mm-28">Community support</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_26_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_26_sectionItem_1" href="https://www.exxon.com/en/educational-alliance">Educational Alliance</a>
+                </li>
+            </ul>
+            <ul id="mm-33" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_27_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_27_sectionItem_0" href="#mm-28">Jobs and careers</a>
+                </li>
+            </ul>
+            <ul id="mm-34" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_28_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_28_sectionItem_0" href="#mm-28">Branded Wholesaler</a>
+                </li>
+            </ul>
+            <ul id="mm-35" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_29_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_29_sectionItem_0" href="#mm-28">Products for business</a>
+                </li>
+                <li id="MobileMenu_RptContainerMenu_RptSection_29_liItem_1" class="">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_29_sectionItem_1" href="https://www.exxon.com/en/wholesale-fuels">Wholesale fuels</a>
+                </li>
+            </ul>
+            <ul id="mm-36" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_30_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_30_sectionItem_0" href="#mm-28">Product and safety data sheets</a>
+                </li>
+            </ul>
+            <ul id="mm-37" class="nav-main-mobile-panel">
+                <li id="MobileMenu_RptContainerMenu_RptSection_31_liItem_0" class="nav-main-mobile-back">
+                    <a id="MobileMenu_RptContainerMenu_RptSection_31_sectionItem_0" href="#mm-28">Partnerships</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="body-wrapper">
+            <header class="nav-header">
+                <div class="nav-wrapper">
+                    <div class="nav-top-bar">
+                        <div class="nav-top-bar-left">
+                            <ul class="nav-lines-brands">
+                                <li>
+                                    <a id="globalNavigation" href="http://corporate.exxonmobil.com/?query=http%3a%2f%2fexxon.com%2fth%2f#global-websites"><span class="nav-mobile">Business</span><span class="nav-tablet-up">Business Lines</span></a>
+                                </li>
+                                <li><a id="globalBrand" href="http://corporate.exxonmobil.com/?query=http%3a%2f%2fexxon.com%2fth%2f#global-websites"><span class="nav-mobile">Brands</span><span class="nav-tablet-up">Global Brands</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="nav-top-bar-right no-social  no-languages">
+                            <ul class="nav-country">
+                                <li><a href="http://corporate.exxonmobil.com/?query=http%3a%2f%2fexxon.com%2fth%2f#global-websites"><i class="icon icon-globe-small"></i>
+                        <span class="nav-country-text">
+                            <span class="hidden-xs">Select Country</span>
+                            <span class="visible-xs-inline"></span>
+                        </span>
+                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="nav-main-bar">
+                        <a href="/" id="Header_linkLob" class="logo"><img id="Header_imageLob" alt="Logo" src="img/exxon_mobil_fuels.png">
+                        </a>
+                        <a href="#" class="nav-main-item nav-main-list-trigger">
+                            <i class="icon-hamburger"></i>
+                            <span class="nav-main-item-text">Menu</span>
+                        </a>
+                        <ul class="nav-main-list">
+                            <li id="Header_RptNavigationContainer_LiNavigationContainer_0" class="nav-main-item" rel="qualityfuels">
+                                <a id="link" href="#"><span>Quality fuels</span>
+                                </a>
+                            </li>
+                            <li id="Header_RptNavigationContainer_LiNavigationContainer_1" class="nav-main-item" rel="gascards-payment">
+                                <a id="link" href="#"><span>Gas cards &amp; payment</span>
+                                </a>
+                            </li>
+                            <li id="Header_RptNavigationContainer_LiNavigationContainer_2" class="nav-main-item" rel="rewards-promotions">
+                                <a id="link" href="#"><span>Rewards &amp; promotions</span>
+                                </a>
+                            </li>
+                            <li id="Header_RptNavigationContainer_LiNavigationContainer_3" class="nav-main-item" rel="motoroil">
+                                <a id="link" href="https://www.exxon.com/en/motor-oil"><span>Motor oil</span>
+                                </a>
+                            </li>
+                            <li id="Header_RptNavigationContainer_LiNavigationContainer_4" class="nav-main-item" rel="ourstations">
+                                <a id="link" href="#"><span>Our stations</span>
+                                </a>
+                            </li>
+                            <li id="Header_RptNavigationContainer_LiNavigationContainer_5" class="nav-main-item" rel="aboutexxon-mobil">
+                                <a id="link" href="#"><span>About Exxon &amp; Mobil</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div id="Header_ctl00_DivNavMeganavWrapper" class="nav-meganav-wrapper">
+                        <section id="qualityfuels" class="clearfix nav-meganav match-height" data-match-height-selectors=".nav-meganav-col">
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/fuels">Quality fuels overview</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/our-fuels">Our fuels</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/unleaded-gasoline">Gasoline</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/diesel-fuel">Diesel</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/ethanol">Ethanol</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/octane-rating">Octane ratings</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/gas-prices">Pricing</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/fuel-efficiency">Fuel tips</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/car-maintenance-tips">Car maintenance</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/driving-tips">Driving habits</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/gas-saving-tips">Smart choices</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/travel-tips">Tips for your journey</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/gasoline-safety-storage">Safety &amp; storage</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/how-car-engines-work">How our fuels work</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/fuel-journey">Journey of fuels</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-close">
+                                <div class="nav-meganav-close-inner"></div>
+                            </div>
+                        </section>
+                        <section id="gascards-payment" class="clearfix nav-meganav match-height" data-match-height-selectors=".nav-meganav-col">
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/gas-cards-and-payment">Gas cards &amp; payment overview</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/personal-credit-cards">Consumer credit card</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/business-credit-cards">Commercial credit cards</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/speedpass">Speedpass<sup>TM</sup></a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/speedpassplus">Speedpass+<sup>TM</sup></a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/gas-gift-cards">Gift cards</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/my-account">Manage your accounts</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-close">
+                                <div class="nav-meganav-close-inner"></div>
+                            </div>
+                        </section>
+                        <section id="rewards-promotions" class="clearfix nav-meganav match-height" data-match-height-selectors=".nav-meganav-col">
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/gas-rewards-and-promotions">Rewards &amp; promotions overview</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/plenti">Plenti</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/return-and-earn">return and earn</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-close">
+                                <div class="nav-meganav-close-inner"></div>
+                            </div>
+                        </section>
+                        <section id="motoroil" class="clearfix nav-meganav match-height" data-match-height-selectors=".nav-meganav-col">
+                            <div class="nav-meganav-close">
+                                <div class="nav-meganav-close-inner"></div>
+                            </div>
+                        </section>
+                        <section id="ourstations" class="clearfix nav-meganav match-height" data-match-height-selectors=".nav-meganav-col">
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/gas-stations">Our stations overview</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/Find Station">Find a station</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-close">
+                                <div class="nav-meganav-close-inner"></div>
+                            </div>
+                        </section>
+                        <section id="aboutexxon-mobil" class="clearfix nav-meganav match-height" data-match-height-selectors=".nav-meganav-col">
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/about-us">About Exxon &amp; Mobil overview</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/history">History</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/environment">Environmental performance</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/community-engagement">Community support</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/educational-alliance">Educational Alliance</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/careers">Jobs and careers</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/distribution-retail">Branded Wholesaler</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/for-business">Products for business</a>
+                                    </li>
+                                    <li class="nav-meganav-subitem">
+                                        <a href="https://www.exxon.com/en/wholesale-fuels">Wholesale fuels</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-col">
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/msds">Product and safety data sheets</a>
+                                    </li>
+                                </ul>
+                                <ul>
+                                    <li class="nav-meganav-title">
+                                        <a href="https://www.exxon.com/en/partnerships">Partnerships</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-meganav-close">
+                                <div class="nav-meganav-close-inner"></div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </header>
+            <div id="global-selector">
+                <div id="gs-bg"></div>
+                <div id="gs-close-wrapper">
+                    <div class="gs-close">Close</div>
+                </div>
+                <div id="gs-content-wrapper">
+                    <aside id="gs-sidebar">
+                        <section id="gs-sidebar-inner">
+                            <h2 style="display: none;">Sidebar inner Section</h2>
+                            <div id="gs-sidebar-logo-wrapper">
+                                <div id="gs-sidebar-logo">ExxonMobil</div>
+                            </div>
+                            <ul id="gs-sidebar-items">
+                                <li class="gs-sidebar-title">Countries and languages</li>
+                                <li class="gs-sidebar-title">Business and brands</li>
+                            </ul>
+                        </section>
+                    </aside>
+                </div>
+            </div>
+
+            <!-- Site content -->
+
+            <div class="body-content container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>Lorem ipsum dolor sit amet, lorem nonumes sensibus mel ad, erat inimicus dissentiunt ut his. Vis ei aperiam mediocrem, te mel dolorum epicurei mediocrem. No graece senserit mei, dicat officiis ne sed. Eum eligendi interesset no, augue adipisci convenire has ad. Per facilisi percipitur neglegentur ut, ut nec impetus forensibus. Ex eam tale pericula sapientem.</p>
+                        <p>epicuri, ad mel quodsi eirmod mandamus. Cu vis aliquam voluptua inciderint.</p>
+                        <p>Inimicus scribentur instructior te sea, ad nec graeci recteque efficiantur, ne duo voluptua constituto. Quo simul persius ex, te errem molestiae sit. Tation malorum tibique ex mei, autem singulis interesset est ad. Dicam quidam tractatos nec cu. Has et adhuc periculis, qualisque vulputate eu vim. Etiam movet doming duo ut, expetenda similique vix at.</p>
+                        <p>Ius ut platonem efficiantur. Sea brute impedit senserit cu, no ius tota volutpat disputando, mollis blandit vel et. Nam alii graece iudicabit ei, te est aeterno euismod necessitatibus. Qui in tale exerci vulputate, nec ea augue sententiae.</p>
+                        <p>Ut nec modo delenit, qui an appetere postulant. Duo hinc sale veniam ad, nostrud inermis expetenda usu id. Qui velit admodum civibus ut, mel ea mucius aperiri. Et sed quis diceret concludaturque. Solum quando oportere in vim, ut sea pericula imperdiet splendide. Delectus expetenda sed et.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div id="footer">
+                    <footer id="footer-top" class="clearfix">
+                        <div id="footer-top-wrapper">
+                            <nav id="footer-nav" class="footer-links-wrapper">
+                                <ul id="footer-nav-items" class="footer-links">
+                                    <li>
+                                        <a id="footer_RptFooterTop_LinkIDTop_0" class="" href="https://www.exxon.com/en/contact-us">Contact us</a>
+                                    </li>
+                                    <li>
+                                        <a id="footer_RptFooterTop_LinkIDTop_1" class="" href="https://exxonmobil.versaic.com/login">Sponsorship request</a>
+                                    </li>
+                                    <li class="footer-nav-global-selector"><a href="http://corporate.exxonmobil.com/?query=http%3a%2f%2fexxon.com%2fth%2f#global-websites">Select country</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </footer>
+                    <section id="footer-bottom" class="clearfix">
+                        <div id="footer-logos">
+                            <a class="footer-logo-large" href="http://corporate.exxonmobil.com"><span class="hidden-ie8">ExxonMobil</span></a>
+                            <ul id="footer-related-companies">
+                                <li class="list-footer-logos">
+                                    <a class="exxon" href="http://www.exxon.com/"></a>
+                                </li>
+                                <li class="list-footer-logos">
+                                    <a class="mobil" href="http://www.mobil.com/"></a>
+                                </li>
+                                <li class="list-footer-logos">
+                                    <a class="esso" href="http://www.esso.com/"></a>
+                                </li>
+                                <li class="list-footer-logos">
+                                    <a class="xto" href="http://xtoenergy.com/"></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <nav id="footer-nav-terms" class="footer-links-wrapper">
+                            <ul class="footer-links">
+                                <li>
+                                    <a id="footer_RptFooterBottomRight_LinkIDBottomRight_0" class="" href="http://corporate.exxonmobil.com/Accessibility">Accessibility</a>
+                                </li>
+                                <li>
+                                    <a id="footer_RptFooterBottomRight_LinkIDBottomRight_1" class="" href="http://corporate.exxonmobil.com/privacy-policy">Privacy policy</a>
+                                </li>
+                                <li>
+                                    <a id="footer_RptFooterBottomRight_LinkIDBottomRight_2" class="" href="http://corporate.exxonmobil.com/terms-and-conditions">Terms &amp; conditions</a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <div id="footer-copyright">
+                            &copy; Copyright 2003-<span id="currentYear"></span> Exxon Mobil Corporation. All Rights Reserved.
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <div class="body-mask"></div>
+        </div>
+        <script type="text/javascript" src="scripts/jquery.min.js"></script>
+        <script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+        <script type="text/javascript" src="scripts/validate.min.js"></script>
+        <script type="text/javascript" src="scripts/core.min.js"></script>
+        <!--[if (lt IE 9) & (!IEMobile)]>
+            <script type="text/javascript" src="scripts/ie8_respond.min.js"></script>
+            <script type="text/javascript" src="scripts/ie8_polyfills.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript">
+        var today = new Date(),
+            year = today.getFullYear();
+        $("#currentYear").html(year);
+        </script>
+    </body>
+
+</html>

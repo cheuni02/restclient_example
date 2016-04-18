@@ -6,11 +6,12 @@
 require 'watir-webdriver'
 require 'rake'
 require 'rest-client'
-#require 'nokogiri'
+require 'nokogiri'
 require 'rspec/expectations'
 require 'cucumber'
 require 'pry'
 require 'require_all'
+require 'open-uri'
 
 require_all 'lib'
 

@@ -26,14 +26,27 @@ Then(/^I should arrive to the (.*) page$/) do |page|
 end
 
 And(/^I should get the '(.*)' responses$/) do |response_type|
+  response = RestClient.get(exxon_site.page_url)
+  page = Nokogiri::HTML(open(exxon_site.page_url))
   case response_type
     when /sign in/
-      test = RestClient.get(exxon_site.page_url)
-      expect(test.code).to eq(200)
+      expect(response.code).to eq(200)
       puts "Im the sign in response!"
+    when /css/
+      #aFile = File.new("./response_output","w+")
+      #aFile.syswrite(response)
 
+      page.css('link[type="text/css"]').each do |links|
+        puts "links = #{links['href']}"
+        response_link = RestClient.get(exxon_site.page_url << links['href'])
+        expect(response_link.code).to eq(200)
+      end
 
-    when /ccs/
     when /js/
+      page.css('script[type="text/javascript"]').each do |links|
+        puts "links = #{links['src']}"
+        # response_link = RestClient.get(exxon_site.page_url << links['src'])
+        # expect(response_link.code).to eq(200)
+      end
   end
 end
