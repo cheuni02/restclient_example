@@ -20,6 +20,7 @@ Then(/^I should arrive to the (.*) page$/) do |page|
     when 'sign in'
       puts "im in the BBC sign in page!"
     when 'exxon example'
+      expect(exxon_site.page_url).to match(/192.168.88.105/)#(/10.40.171.156/)
       puts "I'm in the exxon example page!"
   end
 end
@@ -27,7 +28,11 @@ end
 And(/^I should get the '(.*)' responses$/) do |response_type|
   case response_type
     when /sign in/
+      test = RestClient.get(exxon_site.page_url)
+      expect(test.code).to eq(200)
       puts "Im the sign in response!"
+
+
     when /ccs/
     when /js/
   end
