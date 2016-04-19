@@ -44,10 +44,16 @@ And(/^I should get the '(.*)' responses$/) do |response_type|
       end
 
     when /js/
+      js_link_array = []
       page.css('script[type="text/javascript"]').each do |links|
-        puts "links = #{links['src']}"
-        # response_link = RestClient.get(exxon_site.page_url << links['src'])
-        # expect(response_link.code).to eq(200)
+        #puts "links = #{links['src']}"
+        js_link_array.push(links['src']) if links['src'] != nil
+      end
+
+      js_link_array.each do |b|
+        #puts "array link = #{b}"
+        response_link = RestClient.get(exxon_site.page_url << b)
+        expect(response_link.code).to eq(200)
       end
   end
 end
