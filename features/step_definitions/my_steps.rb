@@ -20,8 +20,8 @@ Then(/^I should arrive to the (.*) page$/) do |page|
     when 'sign in'
       puts "im in the BBC sign in page!"
     when 'exxon example'
-       expect(exxon_site.page_url).to match(/10.50.6.108/)
-      #expect(exxon_site.page_url).to match(/192.168.88.105/)#(/10.40.171.156/)
+      #expect(exxon_site.page_url).to match(/10.50.6.108/)
+      expect(exxon_site.page_url).to match(/192.168.1.3/)#(/10.40.171.156/)
       puts "I'm in the exxon example page!"
   end
 end
@@ -55,5 +55,8 @@ And(/^I should get the '(.*)' responses$/) do |response_type|
         response_link = RestClient.get(exxon_site.page_url << b)
         expect(response_link.code).to eq(200)
       end
+
+    when /image/
+      exxon_site.list_site_data('img')
   end
 end
